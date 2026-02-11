@@ -1,0 +1,20 @@
+{
+  "name": "nh-downloader-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "file-type": "^16.5.4",
+    "form-data": "^4.0.2",
+    "humanoid-js": "^1.0.1",
+    "pdfkit": "^0.16.0",
+    "sharp": "^0.34.0"
+  }
+}
